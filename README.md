@@ -5,6 +5,7 @@ Just Enough Resources is a mod for the game RimWorld.
 *	A RimWorld mod that changes dropdown menus for any buildable option.
 *	This mod color each line of building option according to materials available in the player's stockpiles.
 *	When you click on the item the color automatically applied for each line.
+*	New to update 1.3.6, build options with two or more available items (blue color), now has the exact number of items that can be built.
 
 ## Features:
 * Coloring for any buildable item options.
