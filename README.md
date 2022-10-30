@@ -21,6 +21,7 @@ Just Enough Resources is a mod for the game RimWorld.
 * This mod is currently stable, tested it many times.
 * Supporting old saves integration.
 * Can be removed from saves.
+* RimWorld 1.4 supported now.
 
 ## Compatibility:
 *	This mod only changes dropdown menus, and nothing else.
