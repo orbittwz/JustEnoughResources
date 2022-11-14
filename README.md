@@ -27,3 +27,6 @@ Just Enough Resources is a mod for the game RimWorld.
 *	This mod only changes dropdown menus, and nothing else.
 *	Should be compatible with all mods.
 *	Also applied to mods that add items to build.
+
+## Current Incompatibility List:
+* Beds Need Bedding - https://steamcommunity.com/sharedfiles/filedetails/?id=2558522926
