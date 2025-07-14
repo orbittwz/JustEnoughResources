@@ -17,16 +17,14 @@ Just Enough Resources is a mod for the game RimWorld.
 *	if there are resources, green is used.
 *	if there are more than twice the resources, blue is used.
 
-## Suggestions:
+## Compatibility:
 * This mod is currently stable, tested it many times.
 * Supporting old saves integration.
 * Can be removed from saves.
-* RimWorld 1.5 supported now.
-
-## Compatibility:
 *	This mod only changes dropdown menus, and nothing else.
 *	Should be compatible with all mods.
 *	Also applied to mods that add items to build.
+*	RimWorld 1.6 supported now.
 
 ## Current Incompatibility List:
 * Beds Need Bedding - https://steamcommunity.com/sharedfiles/filedetails/?id=2558522926
