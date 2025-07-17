@@ -11,10 +11,10 @@ Just Enough Resources is a mod for the game RimWorld.
 
 ## Coloring Rules:
 *	There are four colors of which the mod decides - gray , yellow, green and blue.
-*	if there are no resources at all, gray is used.
-*	if there some resources but not all, yellow is used.
-*	if there are resources, green is used.
-*	if there are more than twice the resources, blue is used.
+*	If there are no resources at all, gray is used.
+*	If there some resources but not all, yellow is used.
+*	If there are resources, green is used.
+*	If there are more than twice the resources, blue is used.
 
 ## Compatibility:
 * This mod is currently stable, tested it many times.
