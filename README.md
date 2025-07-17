@@ -7,7 +7,7 @@ Just Enough Resources is a mod for the game RimWorld.
 *	When you click on the item the color automatically applied for each line.
 
 ## Features:
-* Coloring for any buildable item options, including Combat Extended buildings and Dubs Bad Hygiene buildings.
+* Coloring for any buildable item options.
 
 ## Coloring Rules:
 *	There are four colors of which the mod decides - gray , yellow, green and blue.
