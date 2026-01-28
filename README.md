@@ -27,3 +27,5 @@ Just Enough Resources is a mod for the game RimWorld.
 
 ## Current Incompatibility List:
 * Beds Need Bedding - https://steamcommunity.com/sharedfiles/filedetails/?id=2558522926
+
+Note: feel free to continue this mod, I'm not modding for the game anymore! (Permission Granted)
